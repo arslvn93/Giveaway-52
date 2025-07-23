@@ -27,16 +27,10 @@ const config = {
     "theme": "dark",
     "primaryColorOverride": "",
     "ghlWebhookUrl": "",
-    "webhookUrl": "",
     "facebookPixelId": "1057475448873422",
     "salesGeniusAppApi": "",
-    "followUpBossEmail": ""
-  },
-  "thankYouPage": {
-    "pageTitle": "Thank You for Your Entry!",
-    "headerText": "You’re Officially Registered!",
-    "mainMessage": "Your team is set for the <strong>Amazing Race Kemptville</strong>! Watch your inbox for final route details and full instructions. Remember, only teams who finish every stop and collect all sign-offs qualify for the big prize draw on August 19th!",
-    "socialPromptText": "Tell your friends and family—they could join you in the adventure!"
+    "followUpBossEmail": "",
+    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate"
   },
   "prize": {
     "images": [
@@ -53,7 +47,7 @@ const config = {
         "alt": "Gift cards and fun items from local businesses"
       },
       {
-        "src": "",
+        "src": "https://preview.canva.site/d9aa607d-7519-4ceb-9a4d-fb8ba672e2d7/yourhomebase.com/driscollpeca",
         "alt": "Kids and adults exploring local shops together"
       }
     ],
@@ -133,48 +127,19 @@ const config = {
         "icon": "fas fa-bolt",
         "text": "Act fast – limited time!"
       }
-    ],
+    ]
+  },
+  "rules": {
+    "faq": [],
+    "tips": [],
     "fairSelectionInfo": {
-      "title": "100% Fair Draw for Every Finisher",
-      "text": "Every registered participant who completes every stop and challenge is entered in the draw. Winner will be selected randomly and notified by email August 19th, 2025."
+      "title": "",
+      "text": ""
     },
     "importantNotice": {
-      "title": "Race Must Be Fully Completed",
-      "text": "Only racers who finish ALL stops and complete ALL business check-ins will qualify for the prize draw. Read the full rules on the registration form."
-    },
-    "faq": [
-      {
-        "q": "Who can enter the Amazing Race Kemptville?",
-        "a": "Anyone age 14 and up living in or near Kemptville can join. Families with kids, teens, and locals welcome!"
-      },
-      {
-        "q": "How do I qualify for the prizes?",
-        "a": "Register online and finish tasks at every local business stop. Get a sign-off at each one. Complete all stops before August 15 to qualify."
-      },
-      {
-        "q": "Is it free to enter?",
-        "a": "Yes! There’s no cost to join this community event."
-      },
-      {
-        "q": "Can my friends join me?",
-        "a": "Yes! You can race with friends or family, but each teammate must register and complete all stops."
-      },
-      {
-        "q": "When will winners be announced?",
-        "a": "Winners are selected on August 19, 2025 and notified by email from Amber at Driscoll-Peca Team."
-      },
-      {
-        "q": "Do I need to make any purchases?",
-        "a": "No purchase required to enter or win. Just enjoy exploring local businesses!"
-      }
-    ],
-    "tips": [
-      "Register early to get full instructions",
-      "Stay together as a group so everyone qualifies",
-      "Check your email after entering for event updates",
-      "Share this event with neighbors and friends",
-      "Follow Driscoll-Peca Team on Facebook and Instagram for event clues and news"
-    ]
+      "title": "",
+      "text": ""
+    }
   },
   "entryForm": {
     "sharePlatforms": {
@@ -187,46 +152,106 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q1",
+      "id": "q_auto_1753299232703_0",
       "questionText": "How frequently do you and your family enjoy participating in community events or exploring local businesses and attractions?",
       "options": [
-        { "value": "Daily", "text": "Daily" },
-        { "value": "Weekly", "text": "Weekly" },
-        { "value": "Monthly", "text": "Monthly" },
-        { "value": "Only on special occasions", "text": "Only on special occasions" }
+        {
+          "value": "Daily",
+          "text": "Daily"
+        },
+        {
+          "value": "Weekly",
+          "text": "Weekly"
+        },
+        {
+          "value": "Monthly",
+          "text": "Monthly"
+        },
+        {
+          "value": "Only on special occasions",
+          "text": "Only on special occasions"
+        }
       ]
     },
     {
-      "id": "q2",
+      "id": "q_auto_1753299232703_1",
       "questionText": "What are some of your favorite weekend activities with your family?",
       "options": [
-        { "value": "Visiting local parks or events", "text": "Visiting local parks or events" },
-        { "value": "Shopping or dining out locally", "text": "Shopping or dining out locally" },
-        { "value": "Relaxing at home", "text": "Relaxing at home" },
-        { "value": "Traveling outside the community", "text": "Traveling outside the community" }
+        {
+          "value": "Visiting local parks or events",
+          "text": "Visiting local parks or events"
+        },
+        {
+          "value": "Shopping or dining out locally",
+          "text": "Shopping or dining out locally"
+        },
+        {
+          "value": "Relaxing at home",
+          "text": "Relaxing at home"
+        },
+        {
+          "value": "Traveling outside the community",
+          "text": "Traveling outside the community"
+        }
       ]
     },
     {
-      "id": "q3",
+      "id": "q_auto_1753299232703_2",
       "questionText": "When it comes to family outings, what do you value most?",
       "options": [
-        { "value": "Discovering new places", "text": "Discovering new places" },
-        { "value": "Supporting local businesses", "text": "Supporting local businesses" },
-        { "value": "Having fun-filled, low-cost activities", "text": "Having fun-filled, low-cost activities" },
-        { "value": "Educational experiences", "text": "Educational experiences" }
+        {
+          "value": "Discovering new places",
+          "text": "Discovering new places"
+        },
+        {
+          "value": "Supporting local businesses",
+          "text": "Supporting local businesses"
+        },
+        {
+          "value": "Having fun-filled, low-cost activities",
+          "text": "Having fun-filled, low-cost activities"
+        },
+        {
+          "value": "Educational experiences",
+          "text": "Educational experiences"
+        }
       ]
     },
     {
-      "id": "q4",
+      "id": "q_auto_1753299232704_3",
       "questionText": "How do you typically find out about upcoming community events or local promotions?",
       "options": [
-        { "value": "Through social media", "text": "Through social media" },
-        { "value": "Email newsletters and updates", "text": "Email newsletters and updates" },
-        { "value": "Word of mouth or community boards", "text": "Word of mouth or community boards" },
-        { "value": "Flyers and direct mail", "text": "Flyers and direct mail" }
+        {
+          "value": "Through social media",
+          "text": "Through social media"
+        },
+        {
+          "value": "Email newsletters and updates",
+          "text": "Email newsletters and updates"
+        },
+        {
+          "value": "Word of mouth or community boards",
+          "text": "Word of mouth or community boards"
+        },
+        {
+          "value": "Flyers and direct mail",
+          "text": "Flyers and direct mail"
+        }
       ]
     }
   ],
+  "thankYouPage": {
+    "socialLinks": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": "",
+      "tiktok": ""
+    },
+    "pageTitle": "Thank You for Your Entry!",
+    "headerText": "You’re Officially Registered!",
+    "mainMessage": "Your team is set for the <strong>Amazing Race Kemptville</strong>! Watch your inbox for final route details and full instructions. Remember, only teams who finish every stop and collect all sign-offs qualify for the big prize draw on August 19th!",
+    "socialPromptText": "Tell your friends and family—they could join you in the adventure!"
+  },
   "footerContact": {
     "social": {
       "facebook": "https://www.facebook.com/driscollpecateam",
