@@ -1,209 +1,259 @@
 const config = {
-  "modalQuestions": [
-    {
-      "id": "live_event_experience",
-      "questionText": "When it comes to experiences, how do you rate attending live sports events?",
-      "options": [
-        { "value": "must_have_regular", "text": "Must-have, I attend games regularly" },
-        { "value": "enjoyable_few_times", "text": "Enjoyable, I go a few times a year" },
-        { "value": "fun_rarely", "text": "Fun, but I rarely go" },
-        { "value": "not_sports_fan", "text": "I'm not a sports fan" }
-      ]
-    },
-    {
-      "id": "current_living_situation",
-      "questionText": "Which of the following best describes your current living situation?",
-      "options": [
-        { "value": "own_consider_upgrading", "text": "I own my home and am considering upgrading" },
-        { "value": "own_happy", "text": "I own my home and am happy with it" },
-        { "value": "rent_plan_buy_soon", "text": "I rent but plan to buy soon" },
-        { "value": "rent_no_plans", "text": "I rent with no immediate plans to purchase" }
-      ]
-    },
-    {
-      "id": "canada_day_celebration",
-      "questionText": "How do you usually celebrate national holidays, like Canada Day?",
-      "options": [
-        { "value": "hosting_events", "text": "Hosting/attending events or parties" },
-        { "value": "traveling_vacations", "text": "Travelling or planning vacations" },
-        { "value": "local_public_events", "text": "Enjoying local public events or festivals" },
-        { "value": "relaxing_home", "text": "Relaxing at home" }
-      ]
-    },
-    {
-      "id": "transport_preference",
-      "questionText": "What is your preference for transportation to a sporting event?",
-      "options": [
-        { "value": "public_transport", "text": "Public transport" },
-        { "value": "drive", "text": "Drive my own car" },
-        { "value": "ride_sharing", "text": "Ride-sharing services" },
-        { "value": "walk", "text": "I live close enough to walk" }
-      ]
-    }
-  ],
+  "meta": {
+    "pageTitle": "Win $800 Back-to-School or Summer Fun Prize – Amazing Race Kemptville!",
+    "navBrandLogoText": "Driscoll-Peca Team",
+    "privacyPolicyLink": "https://driscollpeca.com/privacy.html"
+  },
   "giveaway": {
-    "name": "Jays Tickets Canada Day Giveaway",
-    "heroHeadline": "Win <span class='highlight'>Free Jays Game Tickets</span> At Our Canada Day Booth!",
-    "heroSubheadline": "Love baseball? Celebrate Canada Day in style with your chance to catch the Jays live! Enter now for a shot at tickets worth $100 	6ront miss out!",
-    "promotionDates": "Enter at our Canada Day booth on July 1st. Winner will be drawn July 2, 2025!",
-    "endDate": "2025-07-02T23:59:59",
-    "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/38xw2wnjphrma0cqgnk8eq6n2r.jpg",
-    "heroCtaText": "Enter to Win Now",
-    "entryFormCtaText": "Enter for Jays Tickets!",
-    "successModalHeaderText": "You're In!",
-    "successModalMainMessage": "Your entry for the <strong>Jays Tickets Canada Day Giveaway</strong> has been received! We9ll draw and notify the winner by email on July 2, 2025. Good luck!",
-    "successModalEmailPrompt": "Watch your inbox on July 2nd for winner news!"
+    "heroHeadline": "Join the <span class='highlight'>Amazing Race Kemptville</span> for a Chance to Win <span class='highlight'>$800+ in Prizes!</span>",
+    "heroSubheadline": "Explore local shops, finish fun challenges, and you could win a huge Back-to-School Family Pack or Summer Fun Pack. Registration is open now—don’t miss out!",
+    "heroBackgroundImageUrl": "",
+    "promotionDates": "Enter between July 23 and August 15. Winner drawn August 19, 2025.",
+    "endDate": "2025-08-16T03:59:00.000Z",
+    "heroCtaText": "Enter the Race Now!",
+    "entryFormCtaText": "Join the Race Now!",
+    "name": "Amazing Race, Kemptville",
+    "successModalHeaderText": "You’re Officially Registered!",
+    "successModalMainMessage": "Your team is set for the <strong>Amazing Race Kemptville</strong>! Watch your inbox for final route details and full instructions. Remember, only teams who finish every stop and collect all sign-offs qualify for the big prize draw on August 19th!",
+    "successModalEmailPrompt": "Tell your friends and family—they could join you in the adventure!"
+  },
+  "settings": {
+    "confettiColors": [
+      "#000000",
+      "#444444",
+      "#888888"
+    ],
+    "showCountdownInHero": true,
+    "theme": "dark",
+    "primaryColorOverride": "",
+    "ghlWebhookUrl": "",
+    "webhookUrl": "",
+    "facebookPixelId": "1057475448873422",
+    "salesGeniusAppApi": "",
+    "followUpBossEmail": ""
+  },
+  "thankYouPage": {
+    "pageTitle": "Thank You for Your Entry!",
+    "headerText": "You’re Officially Registered!",
+    "mainMessage": "Your team is set for the <strong>Amazing Race Kemptville</strong>! Watch your inbox for final route details and full instructions. Remember, only teams who finish every stop and collect all sign-offs qualify for the big prize draw on August 19th!",
+    "socialPromptText": "Tell your friends and family—they could join you in the adventure!"
   },
   "prize": {
-    "name": "Jays Game Ticket Giveaway",
-    "value": "$100 Value",
-    "description": "Imagine yourself cheering in the stands, feeling the excitement as the Jays play under the bright summer sun. Win tickets for a Toronto Blue Jays game and enjoy a day of fun, food, and unforgettable moments. We love going to the ballpark and want to share that with you!",
     "images": [
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/9cjh4n7sanrmc0cqgnk9ntmzfc.jpg",
-        "alt": "People cheering in the stands at a Toronto Blue Jays game"
+        "src": "",
+        "alt": "Family celebrating with school supplies and local treats"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/zszwdhstedrme0cqgnkrxegrq0.jpg",
-        "alt": "Jays fans smiling and having fun at the ballpark"
+        "src": "",
+        "alt": "Teens smiling outside a shop in Kemptville"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/v4bsm43t2hrma0cqgnktq7jajc.jpg",
-        "alt": "Canada Day celebration at a baseball stadium"
+        "src": "",
+        "alt": "Gift cards and fun items from local businesses"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/9keqpgnt8hrme0cqgnksjdkxf4.jpg",
-        "alt": "Kids and adults enjoying a summer Jays game"
+        "src": "",
+        "alt": "Kids and adults exploring local shops together"
       }
     ],
     "includedItems": [
-      { "icon": "fas fa-ticket-alt", "text": "Tickets for a Jays baseball game" },
-      { "icon": "fas fa-baseball-ball", "text": "Choose your game date (from available options)" },
-      { "icon": "fas fa-users", "text": "Perfect for friends, families, or fans" },
-      { "icon": "fas fa-star", "text": "$100 total prize value" }
+      {
+        "icon": "fas fa-gift",
+        "text": "Back to School Prize Pack – everything a family needs for a fresh start"
+      },
+      {
+        "icon": "fas fa-sun",
+        "text": "Summer Fun Pack – gift cards, treats, and local goodies"
+      },
+      {
+        "icon": "fas fa-store",
+        "text": "Prizes from top Kemptville small businesses"
+      },
+      {
+        "icon": "fas fa-users",
+        "text": "Perfect for families or young adults"
+      },
+      {
+        "icon": "fas fa-dollar-sign",
+        "text": "Total $800+ in prizes"
+      }
     ],
-    "limitedTimeOfferText": "Limited Canada Day Giveaway 	6 Only One Winner!",
-    "ctaButtonText": "I Want Jays Tickets!"
+    "name": "Amazing Race Kemptville Grand Prize Pack",
+    "value": "$800+ Value",
+    "description": "This is your chance to make back-to-school easy or keep summer going with a prize pack worth over $800! Families can win a <span class='highlight'>Back to School Prize Pack</span> full of school essentials, treats, and more. No kids? Win our awesome <span class='highlight'>Summer Fun Pack</span> packed with gift cards and cool items from local businesses. Celebrate your community and enjoy a stress-free season!",
+    "limitedTimeOfferText": "Limited Time – Only until August 15th!",
+    "ctaButtonText": "I Want to Win Big!"
   },
   "howToEnter": {
     "steps": [
       {
         "icon": "fas fa-edit",
-        "title": "Fill Out the Form",
-        "description": "Stop by our booth on Canada Day and fill out a quick entry form. Just your name and email needed!"
+        "title": "Register Online",
+        "description": "Sign up with your details in the easy form below."
+      },
+      {
+        "icon": "fas fa-walking",
+        "title": "Complete the Amazing Race",
+        "description": "Visit local shops, finish all fun tasks, and collect checkmarks at each stop."
       },
       {
         "icon": "fas fa-check-circle",
-        "title": "Submit Your Entry",
-        "description": "Drop your entry into our giveaway box 	6 it only takes a few seconds."
+        "title": "Finish & Get Verified",
+        "description": "Each business signs off when your task is done. Complete the whole race to qualify!"
       },
       {
         "icon": "fas fa-trophy",
-        "title": "Winner Announced",
-        "description": "We9ll draw and contact the winner on July 2, 2025 	6 just in time for summer fun!"
+        "title": "You're Entered to Win!",
+        "description": "Every finisher is entered into the prize draw. Winner drawn August 19."
       }
     ],
     "highlights": [
-      { "icon": "fas fa-clock", "text": "Entry takes less than 1 minute" },
-      { "icon": "fas fa-gift", "text": "No purchase, completely free" },
-      { "icon": "fas fa-users", "text": "Open to anyone who loves baseball" },
-      { "icon": "fas fa-random", "text": "Fair and random winner" }
-    ]
-  },
-  "entryForm": {
-    "subtitle": "Enter your details below for a chance to win Jays tickets 	6 perfect for baseball fans!",
-    "entryCountText": "Hundreds of neighbors have already entered 	6 don9t miss out!",
-    "socialSharePrompt": "Love this chance? Share with your fellow baseball fans!",
-    "sharePlatforms": {
-      "facebook": "https://www.facebook.com/sharer/sharer.php?u=" + encodeURIComponent(window.location.href),
-      "twitter": "https://twitter.com/intent/tweet?url=" + encodeURIComponent(window.location.href) + "&text=" + encodeURIComponent("Celebrate Canada Day with a chance to win Jays tickets!")
-    },
-    "entryFormCtaText": "Enter for Jays Tickets!"
-  },
-  "rules": {
+      {
+        "icon": "fas fa-clock",
+        "text": "Quick and easy to join"
+      },
+      {
+        "icon": "fas fa-users",
+        "text": "Perfect for families or teens"
+      },
+      {
+        "icon": "fas fa-gift",
+        "text": "Over $800 in prizes"
+      },
+      {
+        "icon": "fas fa-map-marked-alt",
+        "text": "Discover your local community"
+      },
+      {
+        "icon": "fas fa-star",
+        "text": "Support local businesses"
+      },
+      {
+        "icon": "fas fa-bolt",
+        "text": "Act fast – limited time!"
+      }
+    ],
     "fairSelectionInfo": {
-      "title": "Every Entry Counts!",
-      "text": "All entries go into a fair, random draw. No tricks or hidden rules."
+      "title": "100% Fair Draw for Every Finisher",
+      "text": "Every registered participant who completes every stop and challenge is entered in the draw. Winner will be selected randomly and notified by email August 19th, 2025."
     },
     "importantNotice": {
-      "title": "Winner Chosen July 2nd!",
-      "text": "The lucky winner will be contacted by email on July 2, 2025. Watch your inbox!"
+      "title": "Race Must Be Fully Completed",
+      "text": "Only racers who finish ALL stops and complete ALL business check-ins will qualify for the prize draw. Read the full rules on the registration form."
     },
     "faq": [
       {
-        "q": "Who can enter this giveaway?",
-        "a": "Anyone who loves baseball can enter. All ages welcome!"
+        "q": "Who can enter the Amazing Race Kemptville?",
+        "a": "Anyone age 14 and up living in or near Kemptville can join. Families with kids, teens, and locals welcome!"
       },
       {
-        "q": "Do I need to buy anything to enter?",
-        "a": "No! Stopping by the booth and filling out the entry form is all it takes."
+        "q": "How do I qualify for the prizes?",
+        "a": "Register online and finish tasks at every local business stop. Get a sign-off at each one. Complete all stops before August 15 to qualify."
       },
       {
-        "q": "How is the winner chosen?",
-        "a": "A random draw from all valid entries. It9s fair and simple!"
+        "q": "Is it free to enter?",
+        "a": "Yes! There’s no cost to join this community event."
       },
       {
-        "q": "When will the winner be announced?",
-        "a": "We will contact the winner by email on July 2, 2025."
+        "q": "Can my friends join me?",
+        "a": "Yes! You can race with friends or family, but each teammate must register and complete all stops."
       },
       {
-        "q": "What if I can9t make it to the Jays game?",
-        "a": "We9ll discuss alternative dates if possible 	6 but the prize is for Jays tickets only."
+        "q": "When will winners be announced?",
+        "a": "Winners are selected on August 19, 2025 and notified by email from Amber at Driscoll-Peca Team."
+      },
+      {
+        "q": "Do I need to make any purchases?",
+        "a": "No purchase required to enter or win. Just enjoy exploring local businesses!"
       }
     ],
     "tips": [
-      "Double-check your email for accuracy",
-      "Add shar@theskygroup.ca to your contacts to get winner updates",
-      "Tell your friends and enjoy the booth fun on Canada Day",
-      "Follow us on Instagram and Facebook for prize updates"
+      "Register early to get full instructions",
+      "Stay together as a group so everyone qualifies",
+      "Check your email after entering for event updates",
+      "Share this event with neighbors and friends",
+      "Follow Driscoll-Peca Team on Facebook and Instagram for event clues and news"
     ]
   },
+  "entryForm": {
+    "sharePlatforms": {
+      "facebook": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2FGiveaway-52.netlify.app%2Fadmin",
+      "twitter": "https://twitter.com/intent/tweet?url=https%3A%2F%2FGiveaway-52.netlify.app%2Fadmin&text=Win%20%24800%20Back-to-School%20or%20Summer%20Fun%20Prize%20%E2%80%93%20Amazing%20Race%20Kemptville!"
+    },
+    "subtitle": "Enter your team’s details below to reserve your spot in the Amazing Race Kemptville!",
+    "entryCountText": "Spots fill fast—register now and don’t miss your chance at $800+ in prizes!",
+    "socialSharePrompt": "Love Kemptville? Challenge your friends to race with you—share now:"
+  },
+  "modalQuestions": [
+    {
+      "id": "q1",
+      "questionText": "How frequently do you and your family enjoy participating in community events or exploring local businesses and attractions?",
+      "options": [
+        { "value": "Daily", "text": "Daily" },
+        { "value": "Weekly", "text": "Weekly" },
+        { "value": "Monthly", "text": "Monthly" },
+        { "value": "Only on special occasions", "text": "Only on special occasions" }
+      ]
+    },
+    {
+      "id": "q2",
+      "questionText": "What are some of your favorite weekend activities with your family?",
+      "options": [
+        { "value": "Visiting local parks or events", "text": "Visiting local parks or events" },
+        { "value": "Shopping or dining out locally", "text": "Shopping or dining out locally" },
+        { "value": "Relaxing at home", "text": "Relaxing at home" },
+        { "value": "Traveling outside the community", "text": "Traveling outside the community" }
+      ]
+    },
+    {
+      "id": "q3",
+      "questionText": "When it comes to family outings, what do you value most?",
+      "options": [
+        { "value": "Discovering new places", "text": "Discovering new places" },
+        { "value": "Supporting local businesses", "text": "Supporting local businesses" },
+        { "value": "Having fun-filled, low-cost activities", "text": "Having fun-filled, low-cost activities" },
+        { "value": "Educational experiences", "text": "Educational experiences" }
+      ]
+    },
+    {
+      "id": "q4",
+      "questionText": "How do you typically find out about upcoming community events or local promotions?",
+      "options": [
+        { "value": "Through social media", "text": "Through social media" },
+        { "value": "Email newsletters and updates", "text": "Email newsletters and updates" },
+        { "value": "Word of mouth or community boards", "text": "Word of mouth or community boards" },
+        { "value": "Flyers and direct mail", "text": "Flyers and direct mail" }
+      ]
+    }
+  ],
   "footerContact": {
-    "organizerName": "Sky Group",
-    "organizerLogoUrl": "https://prod-files-secure.s3.us-west-2.amazonaws.com/8e0c10a0-da43-409c-b191-91135b7161ff/eed1f4ef-c781-4015-8092-dda5b2f860d9/68278639dbfc24a322fd422d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466XFL2HBOV%2F20250618%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250618T232937Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEK%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIGecz6R5WMRJ39mO4X9uZiwszyoeZfExmst4AxoYWbcVAiEA%2BYO%2Fu2Uey7e8UO2ahVk6rP2uDWFR9VhVc8S%2Fu7TmIM0qiAQIl%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDGiIO382jJwxty9tpyrcAwELds8vvPeW6qyLvgUnQ0WH4VamcQG0mFgBpkci5o6iVkrZTCkWlV8Qc%2BV2rsnjljjLwsKTPNnFtfGM%2FYT1JwrYGb9HBw2707rIEFa4xgWUdjWJT4FqtCWbiOmlMhBd8S6G1ZI2rSp5iAbCDgrNt7exXqlULGs8DJgPlTqXG69K6iRRxE3RL06I883NpWy5rko0FS2qlrq1T4fzd66hUrcOCAqgxxQkBcjGb1Ry05phxsnp%2Fd0x4PgH25JFzQZMDe8J5xyXyH17RHiGk0HjPSe9kfWKe5p%2Fo%2B0uNb4Ds9gyMpaTouugQixH3VOMaBK49%2BFw3vXwUqK93n35nl%2BnQTzxBs5eXKJLEYnhcte8tvT7jLeHvymzh1PvFTEhwgEsRjAAOYTC4zk7SXCuprzs%2BnQTNiVddaVZIqK8znhIgrG3V0z7M6OlrgMvJTgFrxqdd0chPBBEwu5lHACTCafaMA905NhaOexmaps45Jkiy%2F3lhqEzrx23GlK1iKn4832Ofu9nP2P3cHfZ7YxU6qAWSN5PFdUd8RW%2F41ERgZ5R%2Be%2BhpucM1IGYfjGCpMAZbdHyfkvgairyR8xTZvmNz4HRwXSP485uNCwsbitqj72W%2FP%2BH8%2FfyuYOYlhxf2BnMMMD3zMIGOqUBh6q489Wjxh55K55TqXIEXZ24sGDWV0Ib6iPy0CDmtDgTBKBh5l%2F8tVYgXL27iQvQyjVp%2Bhd3MIvNQm3fHYrRz%2FIOPeSUuJYQq85eVvh9gocJfpUPCyqg7G%2FeEmlzTOqLBtldd8CqZjRhSE0cIOHZ7Nx70x0g%2B%2Bd1aYgF309UG7A%2F8hx%2BujBo%2Fx27syn5YFy7IJDn25cmqQjaMr5q1C4oONGUYvRl&X-Amz-Signature=53488ac36a5877db5a5f3156fc0032f963734cfd0c7b75cdfba6c479e58fd9b2&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
-    "secondaryLogoUrl": "https://prod-files-secure.s3.us-west-2.amazonaws.com/8e0c10a0-da43-409c-b191-91135b7161ff/eed1f4ef-c781-4015-8092-dda5b2f860d9/68278639dbfc24a322fd422d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466XFL2HBOV%2F20250618%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250618T232937Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEK%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLXdlc3QtMiJHMEUCIGecz6R5WMRJ39mO4X9uZiwszyoeZfExmst4AxoYWbcVAiEA%2BYO%2Fu2Uey7e8UO2ahVk6rP2uDWFR9VhVc8S%2Fu7TmIM0qiAQIl%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2Mzc0MjMxODM4MDUiDGiIO382jJwxty9tpyrcAwELds8vvPeW6qyLvgUnQ0WH4VamcQG0mFgBpkci5o6iVkrZTCkWlV8Qc%2BV2rsnjljjLwsKTPNnFtfGM%2FYT1JwrYGb9HBw2707rIEFa4xgWUdjWJT4FqtCWbiOmlMhBd8S6G1ZI2rSp5iAbCDgrNt7exXqlULGs8DJgPlTqXG69K6iRRxE3RL06I883NpWy5rko0FS2qlrq1T4fzd66hUrcOCAqgxxQkBcjGb1Ry05phxsnp%2Fd0x4PgH25JFzQZMDe8J5xyXyH17RHiGk0HjPSe9kfWKe5p%2Fo%2B0uNb4Ds9gyMpaTouugQixH3VOMaBK49%2BFw3vXwUqK93n35nl%2BnQTzxBs5eXKJLEYnhcte8tvT7jLeHvymzh1PvFTEhwgEsRjAAOYTC4zk7SXCuprzs%2BnQTNiVddaVZIqK8znhIgrG3V0z7M6OlrgMvJTgFrxqdd0chPBBEwu5lHACTCafaMA905NhaOexmaps45Jkiy%2F3lhqEzrx23GlK1iKn4832Ofu9nP2P3cHfZ7YxU6qAWSN5PFdUd8RW%2F41ERgZ5R%2Be%2BhpucM1IGYfjGCpMAZbdHyfkvgairyR8xTZvmNz4HRwXSP485uNCwsbitqj72W%2FP%2BH8%2FfyuYOYlhxf2BnMMMD3zMIGOqUBh6q489Wjxh55K55TqXIEXZ24sGDWV0Ib6iPy0CDmtDgTBKBh5l%2F8tVYgXL27iQvQyjVp%2Bhd3MIvNQm3fHYrRz%2FIOPeSUuJYQq85eVvh9gocJfpUPCyqg7G%2FeEmlzTOqLBtldd8CqZjRhSE0cIOHZ7Nx70x0g%2B%2Bd1aYgF309UG7A%2F8hx%2BujBo%2Fx27syn5YFy7IJDn25cmqQjaMr5q1C4oONGUYvRl&X-Amz-Signature=53488ac36a5877db5a5f3156fc0032f963734cfd0c7b75cdfba6c479e58fd9b2&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
-    "secondaryLogoAlt": "Property.Ca Brokerage Logo",
-    "email": "shar@theskygroup.ca",
-    "phone": "1 647 887 4996",
-    "address": "36 Distillery Lane Unit 500 Toronto M5A3C4",
-    "brokerageName": "Property.Ca",
     "social": {
-      "facebook": "https://www.facebook.com/theskygroupre",
-      "instagram": "https://www.instagram.com/theskygroup_re"
+      "facebook": "https://www.facebook.com/driscollpecateam",
+      "instagram": "https://instagram.com/ae.parks"
     },
     "agentContact": {
-      "name": "Shar Banifatemi",
-      "title": "Realtor, Sky Group",
-      "phone": "1 647 887 4996",
-      "email": "shar@theskygroup.ca"
+      "name": "Amber Parks",
+      "title": "Real Estate Agent",
+      "phone": "6138160326",
+      "email": "amber@driscollpeca.com"
     },
-    "copyrightOwner": "Property.Ca",
-    "footerDisclaimer": "This giveaway is not sponsored by or affiliated with the Toronto Blue Jays or Rogers Centre. Winner will be drawn at random from all entries on July 2, 2025. Open to all attendees. No purchase necessary."
-  },
-  "meta": {
-    "pageTitle": "Win Free Jays Tickets This Canada Day 	6 $100 Value!",
-    "navBrandLogoText": "Sky Group",
-    "privacyPolicyLink": "https://www.mls.theskygroup.ca/privacy-policy"
-  },
-  "settings": {
-    "theme": "dark",
-    "primaryColorOverride": "",
-    "showCountdownInHero": true,
-    "facebookPixelId": "1057475448873422",
-    "salesGeniusAppApi": "",
-    "followUpBossEmail": ""
-  },
-"thankYouPage": {
-    "pageTitle": "Thank You for Your Entry!",
-    "headerText": "🎉 Thank You! 🎉",
-    "mainMessage": "Your entry has been successfully submitted. We'll announce the winner soon. Good luck!",
-    "socialPromptText": "To complete your giveaway entry and stay updated, please follow us on our social media channels:"
-    
+    "footerDisclaimer": "This giveaway is sponsored by the Driscoll-Peca Team and is not affiliated with any specific retailer. Contest closes August 15, 2025. Winner selected randomly from all full-race finishers. Must be 14+ and local to Kemptville area.",
+    "organizerLogoUrl": "",
+    "secondaryLogoUrl": "",
+    "secondaryLogoAlt": "Real Broker LTD Logo",
+    "organizerName": "Driscoll-Peca Team",
+    "brokerageName": "Real Broker LTD",
+    "address": "218 Brant Avenue, Brantford ON N3T 3H9",
+    "email": "amber@driscollpeca.com",
+    "phone": "6138160326",
+    "copyrightOwner": "Driscoll-Peca Team"
   },
   "deploymentInfo": {
-    "repoName": "Giveaway-598",
-    "repoUrl": "https://github.com/arslvn93/Giveaway-598",
-    "netlifyUrl": "http://Giveaway-598.netlify.app",
-    "netlifyId": "1004625043"
+    "repoName": "Giveaway-52",
+    "repoUrl": "https://github.com/arslvn93/Giveaway-52",
+    "netlifyUrl": "http://Giveaway-52.netlify.app",
+    "netlifyId": "",
+    "tag": "Amazing Race Kemptville"
   }
 };
