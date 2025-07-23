@@ -7,7 +7,7 @@ const config = {
   "giveaway": {
     "heroHeadline": "Join the <span class='highlight'>Amazing Race Kemptville</span> for a Chance to Win <span class='highlight'>$800+ in Prizes!</span>",
     "heroSubheadline": "Explore local shops, finish fun challenges, and you could win a huge Back-to-School Family Pack or Summer Fun Pack. Registration is open now—don’t miss out!",
-    "heroBackgroundImageUrl": "https://i.ibb.co/Kxr3DNDr/2.png",
+    "heroBackgroundImageUrl": "https://i.ibb.co/SD1J78Ln/1.png",
     "promotionDates": "Enter between July 23 and August 15. Winner drawn August 19, 2025.",
     "endDate": "2025-08-16T03:59:00.000Z",
     "heroCtaText": "Enter the Race Now!",
@@ -152,7 +152,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1753302877331_0",
+      "id": "q_auto_1753303295359_0",
       "questionText": "How frequently do you and your family enjoy participating in community events or exploring local businesses and attractions?",
       "options": [
         {
@@ -174,7 +174,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1753302877331_1",
+      "id": "q_auto_1753303295359_1",
       "questionText": "What are some of your favorite weekend activities with your family?",
       "options": [
         {
@@ -196,7 +196,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1753302877331_2",
+      "id": "q_auto_1753303295359_2",
       "questionText": "When it comes to family outings, what do you value most?",
       "options": [
         {
@@ -218,7 +218,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1753302877331_3",
+      "id": "q_auto_1753303295359_3",
       "questionText": "How do you typically find out about upcoming community events or local promotions?",
       "options": [
         {
