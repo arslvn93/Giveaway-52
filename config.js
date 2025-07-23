@@ -35,11 +35,11 @@ const config = {
   "prize": {
     "images": [
       {
-        "src": "https://preview.canva.site/d9aa607d-7519-4ceb-9a4d-fb8ba672e2d7/yourhomebase.com/driscollpeca",
+        "src": "",
         "alt": "Family celebrating with school supplies and local treats"
       },
       {
-        "src": "https://preview.canva.site/d9aa607d-7519-4ceb-9a4d-fb8ba672e2d7/yourhomebase.com/driscollpeca",
+        "src": "https://ibb.co/fdxP989x",
         "alt": "Teens smiling outside a shop in Kemptville"
       },
       {
@@ -152,7 +152,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1753302316767_0",
+      "id": "q_auto_1753302560208_0",
       "questionText": "How frequently do you and your family enjoy participating in community events or exploring local businesses and attractions?",
       "options": [
         {
@@ -174,7 +174,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1753302316767_1",
+      "id": "q_auto_1753302560208_1",
       "questionText": "What are some of your favorite weekend activities with your family?",
       "options": [
         {
@@ -196,7 +196,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1753302316767_2",
+      "id": "q_auto_1753302560208_2",
       "questionText": "When it comes to family outings, what do you value most?",
       "options": [
         {
@@ -218,7 +218,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1753302316767_3",
+      "id": "q_auto_1753302560208_3",
       "questionText": "How do you typically find out about upcoming community events or local promotions?",
       "options": [
         {
