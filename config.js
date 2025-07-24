@@ -24,7 +24,7 @@ const config = {
       "#888888"
     ],
     "showCountdownInHero": true,
-    "theme": "dark",
+    "theme": "light",
     "primaryColorOverride": "#0fc3f8",
     "ghlWebhookUrl": "",
     "facebookPixelId": "1057475448873422",
@@ -152,7 +152,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1753371203257_0",
+      "id": "q_auto_1753371207224_0",
       "questionText": "How frequently do you and your family enjoy participating in community events or exploring local businesses and attractions?",
       "options": [
         {
@@ -174,7 +174,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1753371203257_1",
+      "id": "q_auto_1753371207224_1",
       "questionText": "What are some of your favorite weekend activities with your family?",
       "options": [
         {
@@ -196,7 +196,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1753371203257_2",
+      "id": "q_auto_1753371207224_2",
       "questionText": "When it comes to family outings, what do you value most?",
       "options": [
         {
@@ -218,7 +218,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1753371203257_3",
+      "id": "q_auto_1753371207224_3",
       "questionText": "How do you typically find out about upcoming community events or local promotions?",
       "options": [
         {
