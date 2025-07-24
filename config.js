@@ -152,7 +152,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1753371378923_0",
+      "id": "q_auto_1753371648950_0",
       "questionText": "How frequently do you and your family enjoy participating in community events or exploring local businesses and attractions?",
       "options": [
         {
@@ -174,7 +174,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1753371378923_1",
+      "id": "q_auto_1753371648950_1",
       "questionText": "What are some of your favorite weekend activities with your family?",
       "options": [
         {
@@ -196,7 +196,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1753371378923_2",
+      "id": "q_auto_1753371648950_2",
       "questionText": "When it comes to family outings, what do you value most?",
       "options": [
         {
@@ -218,7 +218,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1753371378923_3",
+      "id": "q_auto_1753371648950_3",
       "questionText": "How do you typically find out about upcoming community events or local promotions?",
       "options": [
         {
@@ -255,23 +255,23 @@ const config = {
   "footerContact": {
     "social": {
       "facebook": "https://www.facebook.com/driscollpecateam",
-      "instagram": "https://instagram.com/ae.parks"
+      "instagram": "https://instagram.com/riscollpecateam"
     },
     "agentContact": {
       "name": "Amber Parks",
       "title": "Real Estate Agent",
-      "phone": "6138160326",
+      "phone": "613-816-0326",
       "email": "amber@driscollpeca.com"
     },
     "footerDisclaimer": "This giveaway is sponsored by the Driscoll-Peca Team and is not affiliated with any specific retailer. Contest closes August 15, 2025. Winner selected randomly from all full-race finishers. Must be 14+ and local to Kemptville area.",
-    "organizerLogoUrl": "",
-    "secondaryLogoUrl": "",
+    "organizerLogoUrl": "https://iss-cdn.myrealpage.com/HoMX4_KWvF6LDFmcfEmnd9yt991WcDy-teds8V7UYxw/rs:auto:0:0:0/g:sm/bG9jYWw6Ly8vZGF0YS9hcHAvd3BzL3QvaC9lL2QvdGhlZHJpc2NvbGxwZWNhcmVhbGVzdGF0ZXRlYW0ubXlyZWFscGFnZXdlYnNpdGUuY29tL19tZWRpYS9xdWljay11cGxvYWRzL05hdnkucG5nP3Q9MTc0NTMzNjMzODU5NA?t=1745336338594",
+    "secondaryLogoUrl": "https://files.listed.inc/image/19f83150-5fa2-4601-9b3b-cf073e455cd3.jpg",
     "secondaryLogoAlt": "Real Broker LTD Logo",
     "organizerName": "Driscoll-Peca Team",
     "brokerageName": "Real Broker LTD",
     "address": "218 Brant Avenue, Brantford ON N3T 3H9",
     "email": "amber@driscollpeca.com",
-    "phone": "6138160326",
+    "phone": "613-816-0326",
     "copyrightOwner": "Driscoll-Peca Team"
   },
   "deploymentInfo": {
