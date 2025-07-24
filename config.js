@@ -1,6 +1,6 @@
 const config = {
   "meta": {
-    "pageTitle": "Win $800 Back-to-School or Summer Fun Prize – Amazing Race Kemptville!",
+    "pageTitle": "Win Back-to-School or Summer Fun Prize – Amazing Race Kemptville!",
     "navBrandLogoText": "Driscoll-Peca Team",
     "privacyPolicyLink": "https://driscollpeca.com/privacy.html"
   },
@@ -8,7 +8,7 @@ const config = {
     "heroHeadline": "Join the <span class='highlight'>Amazing Race Kemptville</span> for a Chance to Win <span class='highlight'>$800+ in Prizes!</span>",
     "heroSubheadline": "Explore local shops, finish fun challenges, and you could win a huge Back-to-School Family Pack or Summer Fun Pack. Registration is open now—don’t miss out!",
     "heroBackgroundImageUrl": "https://i.ibb.co/SD1J78Ln/1.png",
-    "promotionDates": "Enter between July 23 and August 15. Winner drawn August 19, 2025.",
+    "promotionDates": "Enter between July 24 and August 15. Winner drawn August 19, 2025.",
     "endDate": "2025-08-16T03:59:00.000Z",
     "heroCtaText": "Enter the Race Now!",
     "entryFormCtaText": "Join the Race Now!",
@@ -74,8 +74,8 @@ const config = {
       }
     ],
     "name": "Amazing Race Kemptville Grand Prize Pack",
-    "value": "$800+ Value",
-    "description": "This is your chance to make back-to-school easy or keep summer going with a prize pack worth over $800! Families can win a <span class='highlight'>Back to School Prize Pack</span> full of school essentials, treats, and more. No kids? Win our awesome <span class='highlight'>Summer Fun Pack</span> packed with gift cards and cool items from local businesses. Celebrate your community and enjoy a stress-free season!",
+    "value": "",
+    "description": "This is your chance to make back-to-school easy! Families can win a <span class='highlight'>Back to School Prize Pack</span> full of school essentials, treats, and more. No kids? Win our awesome <span class='highlight'>Summer Fun Pack</span> packed with gift cards and cool items from local businesses. Celebrate your community and enjoy a stress-free season!",
     "limitedTimeOfferText": "Limited Time – Only until August 15th!",
     "ctaButtonText": "I Want to Win Big!"
   },
@@ -152,7 +152,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1753303301623_0",
+      "id": "q_auto_1753368437918_0",
       "questionText": "How frequently do you and your family enjoy participating in community events or exploring local businesses and attractions?",
       "options": [
         {
@@ -174,7 +174,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1753303301623_1",
+      "id": "q_auto_1753368437918_1",
       "questionText": "What are some of your favorite weekend activities with your family?",
       "options": [
         {
@@ -196,7 +196,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1753303301623_2",
+      "id": "q_auto_1753368437918_2",
       "questionText": "When it comes to family outings, what do you value most?",
       "options": [
         {
@@ -218,7 +218,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1753303301623_3",
+      "id": "q_auto_1753368437918_3",
       "questionText": "How do you typically find out about upcoming community events or local promotions?",
       "options": [
         {
