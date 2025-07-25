@@ -95,11 +95,6 @@ const config = {
         "icon": "fas fa-check-circle",
         "title": "Finish & Get Verified",
         "description": "Each business signs off when your task is done. Complete the whole race to qualify!"
-      },
-      {
-        "icon": "fas fa-trophy",
-        "title": "You're Entered to Win!",
-        "description": "Every finisher is entered into the prize draw. Winner drawn August 19."
       }
     ],
     "highlights": [
@@ -178,7 +173,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1753471094647_0",
+      "id": "q_auto_1753471130601_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -200,7 +195,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1753471094647_1",
+      "id": "q_auto_1753471130601_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -222,7 +217,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1753471094647_2",
+      "id": "q_auto_1753471130601_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
