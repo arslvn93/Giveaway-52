@@ -171,7 +171,22 @@ const config = {
     "entryCountText": "Spots fill fast—register now and don’t miss your chance at $800+ in prizes!",
     "socialSharePrompt": "Love Kemptville? Challenge your friends to race with you—share now:"
   },
-  "modalQuestions": [],
+  "modalQuestions": [
+    {
+      "id": "q_auto_1753477171080_0",
+      "questionText": "Are you a Kemptville Area Resident?",
+      "options": [
+        {
+          "value": "Yes",
+          "text": "Yes"
+        },
+        {
+          "value": "No",
+          "text": "No"
+        }
+      ]
+    }
+  ],
   "thankYouPage": {
     "socialLinks": {
       "facebook": "",
