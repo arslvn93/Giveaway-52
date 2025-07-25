@@ -26,8 +26,8 @@ const config = {
     "showCountdownInHero": true,
     "theme": "light",
     "primaryColorOverride": "#0fc3f8",
-    "ghlWebhookUrl": "",
-    "facebookPixelId": "1057475448873422",
+    "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/CVLYBNRm65xkdYXWeFCq/webhook-trigger/lMrPbecEwZmCztDX9DRM",
+    "facebookPixelId": "1261675705515315",
     "salesGeniusAppApi": "",
     "followUpBossEmail": "",
     "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate"
@@ -152,90 +152,68 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1753371792601_0",
-      "questionText": "How frequently do you and your family enjoy participating in community events or exploring local businesses and attractions?",
+      "id": "q_auto_1753464737969_0",
+      "questionText": "What do you like the most about your current home?",
       "options": [
         {
-          "value": "Daily",
-          "text": "Daily"
+          "value": "The location",
+          "text": "The location"
         },
         {
-          "value": "Weekly",
-          "text": "Weekly"
+          "value": "The layout",
+          "text": "The layout"
         },
         {
-          "value": "Monthly",
-          "text": "Monthly"
+          "value": "The finishes (paint, lighting, etc.)",
+          "text": "The finishes (paint, lighting, etc.)"
         },
         {
-          "value": "Only on special occasions",
-          "text": "Only on special occasions"
+          "value": "The outdoor space",
+          "text": "The outdoor space"
         }
       ]
     },
     {
-      "id": "q_auto_1753371792602_1",
-      "questionText": "What are some of your favorite weekend activities with your family?",
+      "id": "q_auto_1753464737969_1",
+      "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
-          "value": "Visiting local parks or events",
-          "text": "Visiting local parks or events"
+          "value": "Yes, sometime in 2025",
+          "text": "Yes, sometime in 2025"
         },
         {
-          "value": "Shopping or dining out locally",
-          "text": "Shopping or dining out locally"
+          "value": "Yes, in the next 1–2 years",
+          "text": "Yes, in the next 1–2 years"
         },
         {
-          "value": "Relaxing at home",
-          "text": "Relaxing at home"
+          "value": "Not at the moment",
+          "text": "Not at the moment"
         },
         {
-          "value": "Traveling outside the community",
-          "text": "Traveling outside the community"
+          "value": "I’m not sure yet",
+          "text": "I’m not sure yet"
         }
       ]
     },
     {
-      "id": "q_auto_1753371792602_2",
-      "questionText": "When it comes to family outings, what do you value most?",
+      "id": "q_auto_1753464737969_2",
+      "questionText": "What’s your current housing situation?",
       "options": [
         {
-          "value": "Discovering new places",
-          "text": "Discovering new places"
+          "value": "I rent and am interested in buying",
+          "text": "I rent and am interested in buying"
         },
         {
-          "value": "Supporting local businesses",
-          "text": "Supporting local businesses"
+          "value": "I own and might sell within 2 years",
+          "text": "I own and might sell within 2 years"
         },
         {
-          "value": "Having fun-filled, low-cost activities",
-          "text": "Having fun-filled, low-cost activities"
+          "value": "I own and am happy where I am",
+          "text": "I own and am happy where I am"
         },
         {
-          "value": "Educational experiences",
-          "text": "Educational experiences"
-        }
-      ]
-    },
-    {
-      "id": "q_auto_1753371792602_3",
-      "questionText": "How do you typically find out about upcoming community events or local promotions?",
-      "options": [
-        {
-          "value": "Through social media",
-          "text": "Through social media"
-        },
-        {
-          "value": "Email newsletters and updates",
-          "text": "Email newsletters and updates"
-        },
-        {
-          "value": "Word of mouth or community boards",
-          "text": "Word of mouth or community boards"
-        },
-        {
-          "value": "Flyers and direct mail",
-          "text": "Flyers and direct mail"
+          "value": "I’m actively looking to buy or sell now",
+          "text": "I’m actively looking to buy or sell now"
         }
       ]
     }
