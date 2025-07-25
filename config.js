@@ -152,7 +152,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1753467242677_0",
+      "id": "q_auto_1753467393823_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -174,7 +174,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1753467242677_1",
+      "id": "q_auto_1753467393823_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -196,7 +196,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1753467242677_2",
+      "id": "q_auto_1753467393823_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
@@ -233,13 +233,13 @@ const config = {
   "footerContact": {
     "social": {
       "facebook": "https://www.facebook.com/driscollpecateam",
-      "instagram": "https://instagram.com/riscollpecateam"
+      "instagram": "https://www.instagram.com/driscollpecateam"
     },
     "agentContact": {
-      "name": "Amber Parks",
+      "name": "Driscoll-Peca Team",
       "title": "Real Estate Agent",
-      "phone": "613-816-0326",
-      "email": "amber@driscollpeca.com"
+      "phone": "(613) 706-1616",
+      "email": "hello@driscollpeca.com"
     },
     "footerDisclaimer": "This giveaway is sponsored by the Driscoll-Peca Team and is not affiliated with any specific retailer. Contest closes August 15, 2025. Winner selected randomly from all full-race finishers. Must be 14+ and local to Kemptville area.",
     "organizerLogoUrl": "https://iss-cdn.myrealpage.com/HoMX4_KWvF6LDFmcfEmnd9yt991WcDy-teds8V7UYxw/rs:auto:0:0:0/g:sm/bG9jYWw6Ly8vZGF0YS9hcHAvd3BzL3QvaC9lL2QvdGhlZHJpc2NvbGxwZWNhcmVhbGVzdGF0ZXRlYW0ubXlyZWFscGFnZXdlYnNpdGUuY29tL19tZWRpYS9xdWljay11cGxvYWRzL05hdnkucG5nP3Q9MTc0NTMzNjMzODU5NA?t=1745336338594",
@@ -248,7 +248,7 @@ const config = {
     "organizerName": "Driscoll-Peca Team",
     "brokerageName": "Real Broker LTD",
     "address": "218 Brant Avenue, Brantford ON N3T 3H9",
-    "email": "amber@driscollpeca.com",
+    "email": "hello@driscollpeca.com",
     "phone": "613-816-0326",
     "copyrightOwner": "Driscoll-Peca Team"
   },
