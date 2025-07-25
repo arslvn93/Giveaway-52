@@ -35,7 +35,7 @@ const config = {
   "prize": {
     "images": [
       {
-        "src": "https://todaysparent.mblycdn.com/tp/resized/2012/09/768x1020/familytime-monkeybusinessimages.jpg",
+        "src": "https://i.ibb.co/cSk2Q3jV/MAIN-PHOTO.png",
         "alt": "Family having fun"
       },
       {
@@ -152,7 +152,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1753464737969_0",
+      "id": "q_auto_1753467242677_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -174,7 +174,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1753464737969_1",
+      "id": "q_auto_1753467242677_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -196,7 +196,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1753464737969_2",
+      "id": "q_auto_1753467242677_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
