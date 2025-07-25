@@ -47,7 +47,7 @@ const config = {
         "alt": "Gift cards and fun items from local businesses"
       },
       {
-        "src": "https://i.ibb.co/Kxr3DNDr/2.png",
+        "src": "https://i.ibb.co/Mxwyp4kY/tes123-1.png",
         "alt": "Kids and adults exploring local shops together"
       }
     ],
@@ -173,7 +173,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1753471270760_0",
+      "id": "q_auto_1753473292509_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -195,7 +195,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1753471270760_1",
+      "id": "q_auto_1753473292509_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -217,7 +217,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1753471270760_2",
+      "id": "q_auto_1753473292509_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
