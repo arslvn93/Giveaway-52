@@ -35,7 +35,7 @@ const config = {
   "prize": {
     "images": [
       {
-        "src": "https://todaysparent.mblycdn.com/tp/resized/2012/09/768x1020/familytime-monkeybusinessimages.jpg",
+        "src": "https://i.ibb.co/cSk2Q3jV/MAIN-PHOTO.png",
         "alt": "Family having fun"
       },
       {
@@ -77,7 +77,7 @@ const config = {
     "value": "2 Amazing Prices",
     "description": "This is your chance to make back-to-school easy! Families can win a Back to School Prize Pack full of school essentials, treats, and more. No kids? Win our awesome Summer Fun Pack packed with gift cards and cool items from local businesses. Celebrate your community and enjoy a stress-free season!",
     "limitedTimeOfferText": "Limited Time – Only until August 15th!",
-    "ctaButtonText": "I Want to Win Big!"
+    "ctaButtonText": " I Want To Join The Race!"
   },
   "howToEnter": {
     "steps": [
@@ -95,6 +95,11 @@ const config = {
         "icon": "fas fa-check-circle",
         "title": "Finish & Get Verified",
         "description": "Each business signs off when your task is done. Complete the whole race to qualify!"
+      },
+      {
+        "icon": "fas fa-trophy",
+        "title": "You're Entered to Win!",
+        "description": "Every finisher is entered into the prize draw. Winner drawn August 19."
       }
     ],
     "highlights": [
@@ -125,8 +130,34 @@ const config = {
     ]
   },
   "rules": {
-    "faq": [],
-    "tips": [],
+    "faq": [
+      {
+        "q": "When does the Amazing Race take place?",
+        "a": "The race runs from August 5th-19th, 2025. You can start anytime during this period and complete the challenges at your own pace."
+      },
+      {
+        "q": " What are the prizes? A: We're giving away $800 worth of prizes:",
+        "a": "- Back to School prize packs (perfect for families with kids)\n- Summer Fun prize packs (great for those without school-age children)\n\n"
+      },
+      {
+        "q": "How many stops are there?",
+        "a": "Approximately 15-20 local Kemptville businesses will be part of your Amazing Race adventure."
+      },
+      {
+        "q": "How do I get clues?",
+        "a": "You'll receive clues as you complete each challenge. Finish one task to unlock the next location!"
+      },
+      {
+        "q": "Do I need to purchase anything at the businesses?",
+        "a": "NO! While we encourage supporting our local businesses, purchases are not required to complete challenges."
+      }
+    ],
+    "tips": [
+      "Plan your route: Group nearby businesses together to save time and gas",
+      "Bring comfortable shoes: You'll be doing some walking!",
+      "Smartphone: For photos, maps, and possibly digital check-ins",
+      "Start early in your timeline: Don't wait until August 19th to begin!"
+    ],
     "fairSelectionInfo": {
       "title": "",
       "text": ""
@@ -147,7 +178,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1753470949282_0",
+      "id": "q_auto_1753471086965_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -169,7 +200,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1753470949282_1",
+      "id": "q_auto_1753471086965_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -191,7 +222,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1753470949282_2",
+      "id": "q_auto_1753471086965_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
@@ -228,13 +259,13 @@ const config = {
   "footerContact": {
     "social": {
       "facebook": "https://www.facebook.com/driscollpecateam",
-      "instagram": "https://instagram.com/riscollpecateam"
+      "instagram": "https://www.instagram.com/driscollpecateam"
     },
     "agentContact": {
-      "name": "Amber Parks",
-      "title": "Real Estate Team",
-      "phone": "613-816-0326",
-      "email": "amber@driscollpeca.com"
+      "name": "Driscoll-Peca Team",
+      "title": "Real Estate Agent",
+      "phone": "(613) 706-1616",
+      "email": "hello@driscollpeca.com"
     },
     "footerDisclaimer": "This giveaway is sponsored by the Driscoll-Peca Team and is not affiliated with any specific retailer. Contest closes August 15, 2025. Winner selected randomly from all full-race finishers. Must be 14+ and local to Kemptville area.",
     "organizerLogoUrl": "https://iss-cdn.myrealpage.com/HoMX4_KWvF6LDFmcfEmnd9yt991WcDy-teds8V7UYxw/rs:auto:0:0:0/g:sm/bG9jYWw6Ly8vZGF0YS9hcHAvd3BzL3QvaC9lL2QvdGhlZHJpc2NvbGxwZWNhcmVhbGVzdGF0ZXRlYW0ubXlyZWFscGFnZXdlYnNpdGUuY29tL19tZWRpYS9xdWljay11cGxvYWRzL05hdnkucG5nP3Q9MTc0NTMzNjMzODU5NA?t=1745336338594",
@@ -243,7 +274,7 @@ const config = {
     "organizerName": "Driscoll-Peca Team",
     "brokerageName": "Real Broker LTD",
     "address": "218 Brant Avenue, Brantford ON N3T 3H9",
-    "email": "amber@driscollpeca.com",
+    "email": "hello@driscollpeca.com",
     "phone": "613-816-0326",
     "copyrightOwner": "Driscoll-Peca Team"
   },
