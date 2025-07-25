@@ -130,8 +130,34 @@ const config = {
     ]
   },
   "rules": {
-    "faq": [],
-    "tips": [],
+    "faq": [
+      {
+        "q": "When does the Amazing Race take place?",
+        "a": "The race runs from August 5th-19th, 2025. You can start anytime during this period and complete the challenges at your own pace."
+      },
+      {
+        "q": " What are the prizes? A: We're giving away $800 worth of prizes:",
+        "a": "- Back to School prize packs (perfect for families with kids)\n- Summer Fun prize packs (great for those without school-age children)\n\n"
+      },
+      {
+        "q": "How many stops are there?",
+        "a": "Approximately 15-20 local Kemptville businesses will be part of your Amazing Race adventure."
+      },
+      {
+        "q": "How do I get clues?",
+        "a": "You'll receive clues as you complete each challenge. Finish one task to unlock the next location!"
+      },
+      {
+        "q": "Do I need to purchase anything at the businesses?",
+        "a": "NO! While we encourage supporting our local businesses, purchases are not required to complete challenges."
+      }
+    ],
+    "tips": [
+      "Plan your route: Group nearby businesses together to save time and gas",
+      "Bring comfortable shoes: You'll be doing some walking!",
+      "Smartphone: For photos, maps, and possibly digital check-ins",
+      "Start early in your timeline: Don't wait until August 19th to begin!"
+    ],
     "fairSelectionInfo": {
       "title": "",
       "text": ""
@@ -152,7 +178,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1753467393823_0",
+      "id": "q_auto_1753467704583_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -174,7 +200,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1753467393823_1",
+      "id": "q_auto_1753467704583_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -196,7 +222,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1753467393823_2",
+      "id": "q_auto_1753467704583_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
