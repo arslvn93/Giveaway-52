@@ -47,7 +47,7 @@ const config = {
         "alt": "Gift cards and fun items from local businesses"
       },
       {
-        "src": "https://i.ibb.co/Mxwyp4kY/tes123-1.png",
+        "src": "https://i.ibb.co/Kxr3DNDr/2.png",
         "alt": "Kids and adults exploring local shops together"
       }
     ],
@@ -171,74 +171,7 @@ const config = {
     "entryCountText": "Spots fill fast—register now and don’t miss your chance at $800+ in prizes!",
     "socialSharePrompt": "Love Kemptville? Challenge your friends to race with you—share now:"
   },
-  "modalQuestions": [
-    {
-      "id": "q_auto_1753473292509_0",
-      "questionText": "What do you like the most about your current home?",
-      "options": [
-        {
-          "value": "The location",
-          "text": "The location"
-        },
-        {
-          "value": "The layout",
-          "text": "The layout"
-        },
-        {
-          "value": "The finishes (paint, lighting, etc.)",
-          "text": "The finishes (paint, lighting, etc.)"
-        },
-        {
-          "value": "The outdoor space",
-          "text": "The outdoor space"
-        }
-      ]
-    },
-    {
-      "id": "q_auto_1753473292509_1",
-      "questionText": "Is a move on your radar in the near future?",
-      "options": [
-        {
-          "value": "Yes, sometime in 2025",
-          "text": "Yes, sometime in 2025"
-        },
-        {
-          "value": "Yes, in the next 1–2 years",
-          "text": "Yes, in the next 1–2 years"
-        },
-        {
-          "value": "Not at the moment",
-          "text": "Not at the moment"
-        },
-        {
-          "value": "I’m not sure yet",
-          "text": "I’m not sure yet"
-        }
-      ]
-    },
-    {
-      "id": "q_auto_1753473292509_2",
-      "questionText": "What’s your current housing situation?",
-      "options": [
-        {
-          "value": "I rent and am interested in buying",
-          "text": "I rent and am interested in buying"
-        },
-        {
-          "value": "I own and might sell within 2 years",
-          "text": "I own and might sell within 2 years"
-        },
-        {
-          "value": "I own and am happy where I am",
-          "text": "I own and am happy where I am"
-        },
-        {
-          "value": "I’m actively looking to buy or sell now",
-          "text": "I’m actively looking to buy or sell now"
-        }
-      ]
-    }
-  ],
+  "modalQuestions": [],
   "thankYouPage": {
     "socialLinks": {
       "facebook": "",
