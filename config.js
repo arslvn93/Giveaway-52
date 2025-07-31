@@ -8,13 +8,13 @@ const config = {
     "heroHeadline": "Join the <span class='highlight'> Amazing Race Kemptville </span> for a Chance to Win <span class='highlight'> $800+ in Prizes! </span>",
     "heroSubheadline": "Explore local shops, finish fun challenges, and you could win a huge Back-to-School Family Pack or Summer Fun Pack. Registration is open now—don’t miss out!",
     "heroBackgroundImageUrl": "https://i.ibb.co/SD1J78Ln/1.png",
-    "promotionDates": "Enter between July 24 and August 15. Winner drawn August 19, 2025.",
+    "promotionDates": "Enter between July 24 and August 21. Winner drawn August 26, 2025.",
     "endDate": "2025-08-16T03:59:00.000Z",
     "heroCtaText": "Enter the Race Now!",
     "entryFormCtaText": "Join the Race Now!",
     "name": "Amazing Race, Kemptville",
     "successModalHeaderText": "You’re Officially Registered!",
-    "successModalMainMessage": "Your team is set for the <strong>Amazing Race Kemptville</strong>! Watch your inbox for final route details and full instructions. Remember, only teams who finish every stop and collect all sign-offs qualify for the big prize draw on August 19th!",
+    "successModalMainMessage": "Your team is set for the <strong>Amazing Race Kemptville</strong>! Watch your inbox for final route details and full instructions. Remember, only teams who finish every stop and collect all sign-offs qualify for the big prize draw on August 26th!",
     "successModalEmailPrompt": "Tell your friends and family—they could join you in the adventure!"
   },
   "settings": {
@@ -128,7 +128,7 @@ const config = {
     "faq": [
       {
         "q": "When does the Amazing Race take place?",
-        "a": "The race runs from August 5th-19th, 2025. You can start anytime during this period and complete the challenges at your own pace."
+        "a": "The race runs from August 5th-26th, 2025. You can start anytime during this period and complete the challenges at your own pace."
       },
       {
         "q": " What are the prizes? A: We're giving away $800 worth of prizes:",
@@ -151,7 +151,7 @@ const config = {
       "Plan your route: Group nearby businesses together to save time and gas",
       "Bring comfortable shoes: You'll be doing some walking!",
       "Smartphone: For photos, maps, and possibly digital check-ins",
-      "Start early in your timeline: Don't wait until August 19th to begin!"
+      "Start early in your timeline: Don't wait until August 26th to begin!"
     ],
     "fairSelectionInfo": {
       "title": "",
@@ -173,7 +173,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1753478281634_0",
+      "id": "q_auto_1753969512211_0",
       "questionText": "Are you a Kemptville Area Resident?",
       "options": [
         {
@@ -196,7 +196,7 @@ const config = {
     },
     "pageTitle": "Thank You for Your Entry!",
     "headerText": "You’re Officially Registered!",
-    "mainMessage": "Your team is set for the <strong>Amazing Race Kemptville</strong>! Watch your inbox for final route details and full instructions. Remember, only teams who finish every stop and collect all sign-offs qualify for the big prize draw on August 19th!",
+    "mainMessage": "Your team is set for the <strong>Amazing Race Kemptville</strong>! Watch your inbox for final route details and full instructions. Remember, only teams who finish every stop and collect all sign-offs qualify for the big prize draw on August 26th!",
     "socialPromptText": "Tell your friends and family—they could join you in the adventure!"
   },
   "footerContact": {
