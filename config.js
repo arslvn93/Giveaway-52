@@ -39,7 +39,7 @@ const config = {
         "alt": "Family having fun"
       },
       {
-        "src": "https://i.ibb.co/1f4GycKP/Untitled-design-43.png",
+        "src": "https://i.ibb.co/n8n50C0d/Untitled-design-44.png",
         "alt": "Teens smiling outside a shop in Kemptville"
       },
       {
@@ -173,7 +173,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1753971359300_0",
+      "id": "q_auto_1753971445805_0",
       "questionText": "Are you a Kemptville Area Resident?",
       "options": [
         {
