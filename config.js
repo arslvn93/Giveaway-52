@@ -9,7 +9,7 @@ const config = {
     "heroSubheadline": "Explore local shops, finish fun challenges, and you could win a huge Back-to-School Family Pack or Summer Fun Pack. Registration is open now—don’t miss out!",
     "heroBackgroundImageUrl": "https://i.ibb.co/SD1J78Ln/1.png",
     "promotionDates": "Enter between July 24 and August 22. Winner drawn August 26, 2025.",
-    "endDate": "2025-08-16T03:59:00.000Z",
+    "endDate": "2025-08-23T03:59:00.000Z",
     "heroCtaText": "Enter the Race Now!",
     "entryFormCtaText": "Join the Race Now!",
     "name": "Amazing Race, Kemptville",
@@ -173,7 +173,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1753969549183_0",
+      "id": "q_auto_1753969674528_0",
       "questionText": "Are you a Kemptville Area Resident?",
       "options": [
         {
