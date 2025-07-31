@@ -35,11 +35,11 @@ const config = {
   "prize": {
     "images": [
       {
-        "src": "https://i.ibb.co/s9MGChtC/Reel-Cover-Photo-13.png",
+        "src": "https://i.ibb.co/Pzm9Jb7c/Untitled-design-40.png",
         "alt": "Family having fun"
       },
       {
-        "src": "https://i.ibb.co/7xQPLqPm/RYAN.png",
+        "src": "https://i.ibb.co/9mRKtrZq/Untitled-design-41.png",
         "alt": "Teens smiling outside a shop in Kemptville"
       },
       {
@@ -173,7 +173,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1753970694943_0",
+      "id": "q_auto_1753970994401_0",
       "questionText": "Are you a Kemptville Area Resident?",
       "options": [
         {
